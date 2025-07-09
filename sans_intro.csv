@@ -43,6 +43,6 @@
 0,ADD,xi,$xi,$jia,,
 3,SineBones,30,15,350,$xi,
 3,SansHead,Default,,,,,,,
-0.1,BoneStab,3,110,0.1,0.35,,,,
+0.1,BoneStab,3,140,0.1,0.35,,,,
 0,SansText,he he.,,,,,,,
 0,EndAttack,,,,,,,,
