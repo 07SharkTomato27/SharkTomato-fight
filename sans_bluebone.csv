@@ -14,7 +14,7 @@
 0,boneh,285.25,305,73,2,0,0,,
 0,sound,Slam,,,,,,,
 0.2,BlackScreen,1,,,,,,,
-0,BlackScreen,0,,,,,,,
+4,BlackScreen,0,,,,,,,
 0,CombatZoneResize,133,251,508,391,TLResume,
 0,HeartTeleport,320,376,,,,
 0,HeartMode,1,,,,,
