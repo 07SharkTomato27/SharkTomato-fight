@@ -22,7 +22,7 @@
 0,Bonev,640,280,500,2,140,2
 0,Bonev,640,280,500,2,140,1
 0,SansBody,HandRight,,,,,,,
-0,Sound,Ding,,,,,,,
+3,Sound,Ding,,,,,,,
 1,SansBody,HandLeft,,,,,,,
 0,sansslam,2,,,,,,,
 0,HeartMode,1,,,,,,,
